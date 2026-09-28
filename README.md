@@ -7,7 +7,9 @@ Each project is organized in its own folder and contains the relevant Power BI f
 Tools
 
 Microsoft Power BI
+
 Microsoft Excel
+
 Purpose
 
 The purpose of this repository is to document my progress in learning Power BI and building practical data visualization projects.
