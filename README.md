@@ -4,7 +4,7 @@ This repository contains different Power BI dashboards and projects covering var
 
 Each project is organized in its own folder and contains the relevant Power BI file, dataset, screenshots, and project documentation where applicable.
 
-Tools
+# Tools
 
 Microsoft Power BI
 
